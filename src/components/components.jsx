@@ -40,10 +40,6 @@ export const Password = style.div`
     width: 80%;
     min-height: 5vh;
  
-
-   
-
-   
 `
 
 export const InputLength = style.input`
@@ -62,3 +58,5 @@ export const BtnGenerator = style.button`
     background-color: #1684FF;
     color: white;
 `
+
+
